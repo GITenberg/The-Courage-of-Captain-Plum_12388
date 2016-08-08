@@ -1,0 +1,37 @@
+_repo: The-Courage-of-Captain-Plum_12388
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schoonover, Frank E.
+    alias: Schoonover, Frank Earle
+    birthdate: 1877
+    deathdate: 1972
+    gutenberg_agent_id: '31362'
+    url: http://www.gutenberg.org/2009/agents/31362
+creator:
+  author:
+    agent_name: Curwood, James Oliver
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '1487'
+    url: http://www.gutenberg.org/2009/agents/1487
+    wikipedia: http://en.wikipedia.org/wiki/James_Oliver_Curwood
+description: Looking for a fast-paced action-adventure thriller that you won't be
+  able to put down? Try The Courage of Captain Plum, from the pen of one of the masters
+  of the genre, James Oliver Curwood. With a stunning climax during which a single
+  man is forced to fend off an entire battalion of bloodthirsty enemies, this action-packed
+  tale won't disappoint.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12388'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- GITenberg
+title: The Courage of Captain Plum
+url: http://www.gutenberg.org/ebooks/12388
