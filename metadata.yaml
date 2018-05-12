@@ -1,5 +1,5 @@
 _repo: The-Courage-of-Captain-Plum_12388
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Schoonover, Frank E.
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1972
     gutenberg_agent_id: '31362'
     url: http://www.gutenberg.org/2009/agents/31362
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Curwood, James Oliver
@@ -21,6 +24,8 @@ description: Looking for a fast-paced action-adventure thriller that you won't b
   of the genre, James Oliver Curwood. With a stunning climax during which a single
   man is forced to fend off an entire battalion of bloodthirsty enemies, this action-packed
   tale won't disappoint.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12388#The-Courage-of-Captain-Plum
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
